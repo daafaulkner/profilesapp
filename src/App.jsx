@@ -15,6 +15,8 @@ function App() {
         <a href="https://react.dev" target="_blank">
           <img src={reactLogo} className="logo react" alt="React logo" />
         </a>
+	        <a href="https://www.openstreetmap.org/#map=15/52.10249/-2.31584" target="_blank">Map</a>
+	
       </div>
       <h1>Vite + React</h1>
       <div className="card">
